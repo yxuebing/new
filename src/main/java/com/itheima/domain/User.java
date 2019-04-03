@@ -3,6 +3,7 @@ package com.itheima.domain;
 public class User {
 
     private Integer id;
+    private String n ;
     private String username;
     private String password;
     private String name;
